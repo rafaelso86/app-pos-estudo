@@ -5,8 +5,8 @@ function gravarAnotacao(){
 	gravarNoBanco(anotacao);
 }
 
-function monstrarRegistros(transaction, result){
-	var listaAnotacoes  document.getElementById('listaAnotacoes');
+function mostrarRegistros(transaction, result){
+	var listaAnotacoes = document.getElementById('listaAnotacoes');
 	var lista = '';
 
 	if(result != null && result.rows != null){

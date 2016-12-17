@@ -20,7 +20,7 @@ function inicializarBanco(){
 
 function gravarNoBanco(anotacao){
 	inicializarBanco();
-	db.transaction(function(transaction)){
+	db.transaction(function(transaction){
 		transaction.executeSql('insert into Anotacoes(conteudo, published) values(?,?)',
 		[anotacao.conteudo, anotacao.published], function(){},
 		errorHandler);
