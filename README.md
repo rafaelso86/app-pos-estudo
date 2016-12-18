@@ -1,4 +1,4 @@
-# app-pos-estudo
-App Teste Pós
+# Projeto Final Desenvolvimento Multiplataforma
+Projeto Final
 
-#Repositório de app cordova, sendo usado para testes.
+#Aplicativo desenvolvido com base no Cordova.
