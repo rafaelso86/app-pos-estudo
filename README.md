@@ -1,4 +1,3 @@
-# Projeto Final Desenvolvimento Multiplataforma
-Projeto Final
+#Desenvolvimento Multiplataforma - Projeto Final
 
-#Aplicativo desenvolvido com base no Cordova.
+Aplicativo desenvolvido com base no Cordova.
